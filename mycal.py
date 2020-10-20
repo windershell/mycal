@@ -1,6 +1,9 @@
 #This is my first code for calculator using repeated-until loop, try-except, and elif condition
 #by Winder
 #trial calculator code
+#repeated-loop
+#try-break
+#4 types calculations
 
 
 print ("Hello to mycal, you can try basic calculation for these 4 operation")
